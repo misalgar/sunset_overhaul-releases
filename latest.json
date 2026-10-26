@@ -1,8 +1,8 @@
 ﻿{
-    "versionCode":  2,
-    "versionName":  "0.1.1",
-    "apkUrl":  "https://github.com/misalgar/sunset_overhaul-releases/releases/download/v0.1.1/sunset-0.1.1.apk",
-    "sha256":  "15a301bfb2adde4ecee668a11cc422ce826865b6499b3f52bd76b856ee0b0690",
-    "notes":  "Fix release startup and allow updates before login",
+    "versionCode":  3,
+    "versionName":  "0.1.2",
+    "apkUrl":  "https://github.com/misalgar/sunset_overhaul-releases/releases/download/v0.1.2/sunset-0.1.2.apk",
+    "sha256":  "990b77a70dd14bd3ad6db5c5bcd87830e418365ef033f2313c311e02ec3d6d47",
+    "notes":  "Live TV polish, Home loading and focus fixes, guide status and language labels.",
     "mandatory":  false
 }
