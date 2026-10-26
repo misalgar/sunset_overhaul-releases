@@ -1,8 +1,8 @@
-{
-  "versionCode": 1,
-  "versionName": "0.1.0",
-  "apkUrl": "https://github.com/misalgar/sunset_overhaul-releases/releases/download/v0.1.0/sunset-0.1.0.apk",
-  "sha256": "…",
-  "notes": "First release",
-  "mandatory": false
+﻿{
+    "versionCode":  1,
+    "versionName":  "0.1.0",
+    "apkUrl":  "https://github.com/misalgar/sunset_overhaul-releases/releases/download/v0.1.0/sunset-0.1.0.apk",
+    "sha256":  "b776737c1655dab8f0c819db7d6e9c275f09f36352b09a9cfcf7f711179e4878",
+    "notes":  "First release",
+    "mandatory":  false
 }
