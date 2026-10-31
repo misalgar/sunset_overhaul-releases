@@ -1,8 +1,8 @@
-﻿{
-    "versionCode":  4,
-    "versionName":  "0.1.3",
-    "apkUrl":  "https://github.com/misalgar/sunset_overhaul-releases/releases/download/v0.1.3/sunset-0.1.3.apk",
-    "sha256":  "fc5b235d085e350271eb391503b577cbb216021cd815565c12ab890251f397e5",
-    "notes":  "v0.1.3 release.",
-    "mandatory":  false
+{
+  "versionCode": 5,
+  "versionName": "0.1.4",
+  "apkUrl": "https://github.com/misalgar/sunset_overhaul-releases/releases/download/v0.1.4/sunset-0.1.4.apk",
+  "sha256": "c48ca82efcb4a4cd2996b2311419e744c64ac1cd720da501ac251d40c1466297",
+  "notes": "My List empty sections now link to their own category (Browse Series / Browse Live TV) instead of always Movies. Top-nav Down now lands on visible content after Back in Movies, Series and My List. Watch progress shows as a thin amber bar on posters with per-episode completion, and hero buttons say Resume / Play again. Live tile titles marquee smoothly on focus.",
+  "mandatory": false
 }
